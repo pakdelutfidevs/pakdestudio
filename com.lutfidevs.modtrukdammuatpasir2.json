@@ -11,8 +11,8 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
-      "on_off_interstitial":"",
-      "interval_intertitial": 5,
+      "on_off_interstitial":"1",
+      "interval_intertitial": 3,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -22,7 +22,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_more_app":""
+      "on_off_more_app":"1"
 
  
     }
