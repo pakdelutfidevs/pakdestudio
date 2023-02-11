@@ -1,0 +1,90 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "on_off_interstitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_more_app":""
+
+ 
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper Paralax",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    }
+  ],
+ "DATA":
+  [
+    {
+      "title":"Fueso Dump Muat Batu",
+      "image":"file:///android_asset/Fueso Dump Muat Batuss.jpg",
+      "link_mods":"https://archive.org/download/DamPasir/Fueso%20Dump%20Muat%20Batu.bussidmod",
+      "link_livery":"png"
+    },
+	{
+      "title":"Fueso Fighter",
+      "image":"file:///android_asset/Fueso Fighterss.jpg",
+      "link_mods":"https://archive.org/download/DamPasir/Fueso%20Fighter.bussidvehicle",
+      "link_livery":"png"
+    },
+	{
+      "title":"Fueso Pasir Hijau",
+      "image":"file:///android_asset/Fueso Pasir Hijauss.jpg",
+      "link_mods":"https://archive.org/download/DamPasir/Fueso%20Pasir%20Hijau.bussidvehicle",
+      "link_livery":"png"
+    },
+	{
+      "title":"Fueso Pasir + Kuli",
+      "image":"file:///android_asset/Fueso Pasir Orangss.jpg",
+      "link_mods":"https://archive.org/download/DamPasir/Fueso%20Pasir%20Orang.bussidmod",
+      "link_livery":"https://archive.org/download/DamPasir/Fueso%20Pasir%20Orang.png"
+    },
+	{
+      "title":"Huino Pasir No Terpal",
+      "image":"file:///android_asset/Huino Pasir No Terpalss.jpg",
+      "link_mods":"https://archive.org/download/DamPasir/Huino%20Pasir%20No%20Terpal.bussidmod",
+      "link_livery":"png"
+    },
+	{
+      "title":"Truk Cw Pasir",
+      "image":"file:///android_asset/Truk Cw Pasirss.jpg",
+      "link_mods":"https://archive.org/download/DamPasir/Truk%20Cw%20Pasir.bussidvehicle",
+      "link_livery":"png"
+    },
+	{
+      "title":"Truk Meitos Pasir",
+      "image":"file:///android_asset/Truk Meitos Pasirss.jpg",
+      "link_mods":"https://archive.org/download/DamPasir/Truk%20Meitos%20Pasir.bussidmod",
+      "link_livery":"https://archive.org/download/DamPasir/Truk%20Meitos%20Pasir.png"
+    },
+	{
+      "title":"Truk Mitsu Pasir",
+      "image":"file:///android_asset/Truk Mitsu Pasirss.jpg",
+      "link_mods":"https://archive.org/download/DamPasir/Truk%20Mitsu%20Pasir.bussidmod",
+      "link_livery":"png"
+    }
+  ]
+}
