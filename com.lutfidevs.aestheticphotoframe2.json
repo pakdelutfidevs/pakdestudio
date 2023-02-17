@@ -2,13 +2,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-1977787218198319/7511537821",
+      "main_ads_intertitial":"ca-app-pub-1977787218198319/9754557787",
       "main_ads_natives":"",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
@@ -201,6 +201,138 @@
          "category":"Aesthetic Photo Frames",
          "title":"Aesthetic Photo Frames",
          "image_link":"frame/aesthetic/aesthetic028.webp"
+      },
+      {
+         "id":29,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic029.webp"
+      },
+      {
+         "id":30,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic030.webp"
+      },
+      {
+         "id":31,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic031.webp"
+      },
+      {
+         "id":32,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic032.webp"
+      },
+      {
+         "id":33,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic033.webp"
+      },
+      {
+         "id":34,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic034.webp"
+      },
+      {
+         "id":35,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic035.webp"
+      },
+      {
+         "id":36,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic036.webp"
+      },
+      {
+         "id":37,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic037.webp"
+      },
+      {
+         "id":38,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic038.webp"
+      },
+      {
+         "id":39,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic039.webp"
+      },
+      {
+         "id":40,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic040.webp"
+      },
+      {
+         "id":41,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic041.webp"
+      },
+      {
+         "id":42,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic042.webp"
+      },
+      {
+         "id":43,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic043.webp"
+      },
+      {
+         "id":44,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic044.webp"
+      },
+      {
+         "id":45,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic045.webp"
+      },
+      {
+         "id":46,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic046.webp"
+      },
+      {
+         "id":47,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic047.webp"
+      },
+      {
+         "id":48,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic048.webp"
+      },
+      {
+         "id":49,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic049.webp"
+      },
+	  {
+         "id":49,
+         "category":"Aesthetic Photo Frames",
+         "title":"Aesthetic Photo Frames",
+         "image_link":"frame/aesthetic/aesthetic050.webp"
       }
   ]
 }
