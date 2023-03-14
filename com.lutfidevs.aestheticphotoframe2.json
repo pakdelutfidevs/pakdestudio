@@ -1,9 +1,9 @@
 {"Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-1977787218198319/7511537821",
-      "main_ads_intertitial":"ca-app-pub-1977787218198319/9754557787",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
